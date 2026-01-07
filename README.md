@@ -146,16 +146,9 @@ AutoPrepML/
 
 ---
 
-## 🚀 How to Run Locally
+## HOW TO USE
+link = https://autoprepml-4347.streamlit.app/
 
-```bash
-git clone https://github.com/your-username/AutoPrepML.git
-cd AutoPrepML
-pip install -r requirements.txt
-streamlit run app.py
-```
-
----
 
 ## 🎯 Use Cases
 
